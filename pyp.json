@@ -35,11 +35,11 @@
     "project_requirements": {
         "python_version": ">=3.4, <4",
         "python_packages": [
-            "numpy==1.17.2",
-            "torch==1.2.0",
-            "torchvision==0.4.0",
-            "tqdm==4.36.1",
-            "matplotlib==3.1.1"
+            "numpy>=1.17.2",
+            "torch>=1.2.0",
+            "torchvision>=0.4.0",
+            "tqdm>=4.36.1",
+            "matplotlib>=3.1.1"
         ]
     }
 }
